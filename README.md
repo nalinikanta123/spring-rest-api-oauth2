@@ -37,3 +37,6 @@ Refresh Token : Mainly used to get a new access token, not sent with each reques
 Client can ask for the resource with specific access rights using scope [want to access feeds & photos of this users facebook account], and authorization server in turn return scope showing what access rights were actually granted to the client
 
 ![image](https://user-images.githubusercontent.com/30445249/235386746-780298e3-0a8f-43bb-bfa4-ac5486ce0ef8.png)
+
+![image](https://user-images.githubusercontent.com/30445249/235393430-f80d3c2e-d61b-48e6-911c-17724b19e08c.png)
+
